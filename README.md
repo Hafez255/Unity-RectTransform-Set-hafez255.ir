@@ -1,4 +1,8 @@
-//1- Create Editor Folder in Unity Project
-//2- Put AnchorSethafez255 in Editor Folder "Assets/Editor/AnchorSethafez255.cs"
-//3- Select Object in Scene And Press Button "H" To Automatically Set RectTransform
-//4- Contact Us: hafez255.ir@gmail.com
+Hello
+Always i have Big Problem with my All Projects design with Unity Editor and waste my Time.
+Now I Create solution For Own.
+see that in youtube:
+https://www.youtube.com/watch?v=lXGfwHrCisQ
+
+
+I'm Hope It Help You in Future.
